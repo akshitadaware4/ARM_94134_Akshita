@@ -1,0 +1,10 @@
+08:56:58 **** Incremental Build of configuration Debug for project toggle_led_using_user_switch ****
+make -j12 all 
+arm-none-eabi-size  toggle_led_using_user_switch.elf 
+   text	   data	    bss	    dec	    hex	filename
+   1176	      4	   1564	   2744	    ab8	toggle_led_using_user_switch.elf
+Finished building: default.size.stdout
+ 
+
+08:56:59 Build Finished. 0 errors, 0 warnings. (took 505ms)
+

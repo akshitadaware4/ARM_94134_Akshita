@@ -1,0 +1,10 @@
+12:06:10 **** Incremental Build of configuration Debug for project user_switch_controlled_led ****
+make -j12 all 
+arm-none-eabi-size  user_switch_controlled_led.elf 
+   text	   data	    bss	    dec	    hex	filename
+    952	      0	   1568	   2520	    9d8	user_switch_controlled_led.elf
+Finished building: default.size.stdout
+ 
+
+12:06:11 Build Finished. 0 errors, 0 warnings. (took 431ms)
+

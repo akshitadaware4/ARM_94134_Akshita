@@ -1,0 +1,10 @@
+09:19:36 **** Incremental Build of configuration Debug for project switch_based_led_sequence ****
+make -j12 all 
+arm-none-eabi-size  switch_based_led_sequence.elf 
+   text	   data	    bss	    dec	    hex	filename
+   1164	      4	   1564	   2732	    aac	switch_based_led_sequence.elf
+Finished building: default.size.stdout
+ 
+
+09:19:37 Build Finished. 0 errors, 0 warnings. (took 506ms)
+
