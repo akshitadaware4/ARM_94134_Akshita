@@ -1,0 +1,13 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LED_Sequence_by_HAL Debug (1),org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LED_Sequence_by_HAL Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:toggle_LED_using_switch Debug (1),org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:toggle_LED_using_switch Debug (2),org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:switch_controlled_LED_using_HAL Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:toggle_LED_using_switch Debug,org.eclipse.launchbar.core.descriptorType.default\:toggle_LED_using_switch Debug (3),org.eclipse.launchbar.core.descriptorType.default\:LED_Sequence_by_HAL Debug (2),org.eclipse.launchbar.core.descriptorType.default\:switch_controlled_LED_using_HAL Debug (1)
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LED_Sequence_by_HAL\ Debug\ (1)/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:LED_Sequence_by_HAL\ Debug\ (1)/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:switch_controlled_LED_using_HAL\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:switch_controlled_LED_using_HAL\ Debug/activeLaunchTarget=null\:---
+org.eclipse.launchbar.core.descriptorType.default\:LED_Sequence_by_HAL\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:switch_controlled_LED_using_HAL\ Debug/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:switch_controlled_LED_using_HAL\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:toggle_LED_using_switch\ Debug\ (3)/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

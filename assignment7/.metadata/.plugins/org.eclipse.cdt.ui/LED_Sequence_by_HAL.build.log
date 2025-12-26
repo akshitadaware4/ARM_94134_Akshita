@@ -1,0 +1,10 @@
+12:29:18 **** Incremental Build of configuration Debug for project LED_Sequence_by_HAL ****
+make -j12 all 
+arm-none-eabi-size  LED_Sequence_by_HAL.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6220	     12	   1572	   7804	   1e7c	LED_Sequence_by_HAL.elf
+Finished building: default.size.stdout
+ 
+
+12:29:19 Build Finished. 0 errors, 0 warnings. (took 496ms)
+
