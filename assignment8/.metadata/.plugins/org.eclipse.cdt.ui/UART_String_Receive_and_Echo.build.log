@@ -1,0 +1,10 @@
+15:11:00 **** Incremental Build of configuration Debug for project UART_String_Receive_and_Echo ****
+make -j12 all 
+arm-none-eabi-size  UART_String_Receive_and_Echo.elf 
+   text	   data	    bss	    dec	    hex	filename
+  11736	     12	   1748	  13496	   34b8	UART_String_Receive_and_Echo.elf
+Finished building: default.size.stdout
+ 
+
+15:11:01 Build Finished. 0 errors, 0 warnings. (took 411ms)
+
