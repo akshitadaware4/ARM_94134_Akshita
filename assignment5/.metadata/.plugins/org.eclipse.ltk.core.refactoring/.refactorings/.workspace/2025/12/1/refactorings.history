@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos; Extend_EXTI_functionality/Inc&apos;" deleteContents="false" description="Delete resource &apos; Extend_EXTI_functionality/Inc&apos;" element1="/ Extend_EXTI_functionality/Inc" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1767107758627"/>&#x0A;<refactoring comment="Delete resource &apos; Extend_EXTI_functionality&apos;" deleteContents="true" description="Delete resource &apos; Extend_EXTI_functionality&apos;" element1="/ Extend_EXTI_functionality" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1767107782295"/>
+</session>

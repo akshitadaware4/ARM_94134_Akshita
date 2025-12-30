@@ -1,0 +1,10 @@
+19:57:03 **** Incremental Build of configuration Debug for project Modify_interrupt_trigger ****
+make -j12 all 
+arm-none-eabi-size  Modify_interrupt_trigger.elf 
+   text	   data	    bss	    dec	    hex	filename
+   1312	      4	   1572	   2888	    b48	Modify_interrupt_trigger.elf
+Finished building: default.size.stdout
+ 
+
+19:57:04 Build Finished. 0 errors, 0 warnings. (took 549ms)
+

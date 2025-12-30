@@ -1,0 +1,7 @@
+20:44:41 **** Incremental Build of configuration Debug for project  Extend_EXTI_functionality ****
+make -j12 all 
+make: *** No rule to make target 'Extend_EXTI_functionality\STM32F407VGTX_FLASH.ld', needed by 'Extend_EXTI_functionality.elf'.  Stop.
+"make -j12 all" terminated with exit code 2. Build might be incomplete.
+
+20:44:42 Build Failed. 1 errors, 0 warnings. (took 417ms)
+
